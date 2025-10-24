@@ -40,9 +40,8 @@ const seedMateriales = async () => {
   await client.connect();
   try {
     await client.query('BEGIN');
-    await client.query('TRUNCATE TABLE movimientos_materiales RESTART IDENTITY');
+await client.query('TRUNCATE TABLE movimientos_materiales, materiales RESTART IDENTITY CASCADE');
 
-    await client.query('TRUNCATE TABLE materiales RESTART IDENTITY');
 
     const insertQuery = `
       INSERT INTO materiales (
