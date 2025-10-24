@@ -61,7 +61,7 @@
 <script setup>
 import { reactive, ref } from 'vue'
 import { useRouter } from 'vue-router'
-import axios from 'axios'
+import api from '@/services/api'
 
 const router = useRouter()
 
@@ -83,7 +83,7 @@ const onSubmit = async () => {
     errorMessage.value = ''
     isSubmitting.value = true
 
-    const response = await axios.post('http://localhost:3000/auth/login', {
+    const response = await api.post('/auth/login', {
       email: form.email,
       password: form.password
     })
