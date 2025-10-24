@@ -1,0 +1,1460 @@
+[
+  {
+    "nombre": "abrazadera",
+    "medida": "1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "abrazadera",
+    "medida": "3/8",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "abrazadera",
+    "medida": "3/4",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "abrazadera",
+    "medida": "1",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "abrazadera",
+    "medida": "1 1/4",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "abrazadera",
+    "medida": "1 1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "abrazadera",
+    "medida": "2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Copla Red",
+    "medida": "2 x 1 1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Copla Red",
+    "medida": "2 x 1 1/4",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Copla Red",
+    "medida": "2 1/2 x 1 1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Copla Red",
+    "medida": "2 1/2 x 1",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Copla Red",
+    "medida": "2 1/2 x 2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Copla Red",
+    "medida": "1 1/2 x 1",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Copla Red",
+    "medida": "1 1/4 x 1",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Copla Red",
+    "medida": "1 1/2 x 3/4",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Copla Red",
+    "medida": "1 1/4 x 3/4",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Copla Red",
+    "medida": "2 x 1",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Copla Red",
+    "medida": "2 x 3/4",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Copla Red",
+    "medida": "1 x 3/4",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Copla Red",
+    "medida": "2 x 1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Copla Red",
+    "medida": "1 x 1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Copla Red",
+    "medida": "3/4x 1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Copla Red",
+    "medida": "1/2 x 3/8",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Copla",
+    "medida": "1 1/4",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Copla",
+    "medida": "2 1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Copla",
+    "medida": "1 1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Copla",
+    "medida": "2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Copla",
+    "medida": "1",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Copla",
+    "medida": "3/4",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Copla",
+    "medida": "1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Copla",
+    "medida": "3/8",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Codo",
+    "medida": "1 1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Codo",
+    "medida": "1 1/2 x 3/4",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Codo",
+    "medida": "2 1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Codo",
+    "medida": "2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Codo",
+    "medida": "1 1/4",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Codo",
+    "medida": "1",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Codo",
+    "medida": "3/4",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Codo",
+    "medida": "1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Codo",
+    "medida": "3/8",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Codo",
+    "medida": "1 1/4 x 1",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Codo",
+    "medida": "1 1/4 x 3/4",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Codo",
+    "medida": "3/4 x 1/2",
+    "caracteristicas": "SOSO",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Codo",
+    "medida": "1 x 1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Codo",
+    "medida": "1/2 x 3/8",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Codo",
+    "medida": "1x 3/4",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Codo Ter",
+    "medida": "3/4 x 1/2",
+    "caracteristicas": "So He",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Codo Ter",
+    "medida": "1/2 x 3/8",
+    "caracteristicas": "He So",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Codo Ter",
+    "medida": "3/4 x 1/2",
+    "caracteristicas": "He So",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Codo Ter",
+    "medida": "1/2",
+    "caracteristicas": "So Hi",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Codo Ter",
+    "medida": "1/2",
+    "caracteristicas": "So He",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Codo Ter",
+    "medida": "3/8",
+    "caracteristicas": "So Hi",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Codo Ter",
+    "medida": "3/4",
+    "caracteristicas": "So He",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Codo Ter",
+    "medida": "3/4",
+    "caracteristicas": "So HI",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Codo Ter",
+    "medida": "1",
+    "caracteristicas": "So He",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Codo Ter",
+    "medida": "1",
+    "caracteristicas": "So HI",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tee",
+    "medida": "1 1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tee",
+    "medida": "1 1/4",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tee",
+    "medida": "2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tee",
+    "medida": "1",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tee",
+    "medida": "3/4",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tee",
+    "medida": "1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tee",
+    "medida": "3/8",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tee",
+    "medida": "2 x 2 x 1/2",
+    "caracteristicas": "sososo",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tee",
+    "medida": "1 1/2 x 1 1/2 x 1/2",
+    "caracteristicas": "sososo",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tee",
+    "medida": "1 1/2 x 1 1/2 x 3/4",
+    "caracteristicas": "sososo",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tee",
+    "medida": "1 1/4 x 1 x 1",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tee",
+    "medida": "1 1/4 x 1 1/4 x 3/4",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tee",
+    "medida": "1 1/4 x 1 1/4 x 1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tee",
+    "medida": "3/4 x 1/2 x 1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tee",
+    "medida": "3/4 x 3/4 x 1/2",
+    "caracteristicas": "sososo",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tee",
+    "medida": "3/4 1/2 x 3/4",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tee",
+    "medida": "1 1/4 x 1 1/4 x 1",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tee",
+    "medida": "1 x 1 x 1/2",
+    "caracteristicas": "SO",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tee",
+    "medida": "1 x 1 x 3/4",
+    "caracteristicas": "SO",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tee",
+    "medida": "1 x 3/4 x 1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tee",
+    "medida": "1 x 1 x 1/2",
+    "caracteristicas": "Prueba",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tee",
+    "medida": "3/4 x 3/4 x 3/4",
+    "caracteristicas": "Prueba",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tee",
+    "medida": "3/4 x 3/4 x 1/2",
+    "caracteristicas": "Prueba",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tee",
+    "medida": "2025-02-01 00:00:00",
+    "caracteristicas": "prueba",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tee",
+    "medida": "2025-08-03 00:00:00",
+    "caracteristicas": "prueba",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Uni�n Cola",
+    "medida": "1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Uni�n Cola",
+    "medida": "3/4",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tapa Hi",
+    "medida": "1/2 HI",
+    "caracteristicas": "HI",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tapa Hi",
+    "medida": "3/4 HI",
+    "caracteristicas": "HI",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tapa gorro SO",
+    "medida": "1 SO",
+    "caracteristicas": "so",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tapa HE",
+    "medida": "3/4 HE",
+    "caracteristicas": "He",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tapa gorro SO",
+    "medida": "3/4 SO",
+    "caracteristicas": "SO",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tapa gorro SO",
+    "medida": "3/8 SO",
+    "caracteristicas": "SO",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "\"Tapa HE 1/2\"\"\"",
+    "medida": "1/2 HE",
+    "caracteristicas": "He",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tapa HE",
+    "medida": "1 1/2 HE",
+    "caracteristicas": "He",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tapa Hi",
+    "medida": "1 HI",
+    "caracteristicas": "HI",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tapa gorro So",
+    "medida": "1 1/2 SO",
+    "caracteristicas": "SO",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tapa gorro So",
+    "medida": "1/2 SO",
+    "caracteristicas": "So",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Uni�n Americana",
+    "medida": "3/8",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Uni�n Americana",
+    "medida": "1/2",
+    "caracteristicas": "SO_HE",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Uni�n Americana",
+    "medida": "1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Uni�n Americana",
+    "medida": "3/4",
+    "caracteristicas": "SO-HE",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Uni�n Americana",
+    "medida": "3/4",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Uni�n Americana",
+    "medida": "2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Uni�n Americana",
+    "medida": "1",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Uni�n Americana",
+    "medida": "1 1/4",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Uni�n Americana",
+    "medida": "1 1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Niple",
+    "medida": "1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Niple",
+    "medida": "3/4",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Niple",
+    "medida": "1/2HI HI",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Niple",
+    "medida": "3/8",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Terminal",
+    "medida": "1/2",
+    "caracteristicas": "So He",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Terminal",
+    "medida": "1 1/4",
+    "caracteristicas": "So He",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Terminal",
+    "medida": "1 1/2",
+    "caracteristicas": "So He",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Terminal",
+    "medida": "2",
+    "caracteristicas": "So He",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Terminal",
+    "medida": "1",
+    "caracteristicas": "So He",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Terminal",
+    "medida": "3/4",
+    "caracteristicas": "So He",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Terminal",
+    "medida": "1 x 3/4",
+    "caracteristicas": "So He",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Terminal",
+    "medida": "1/2 x 3/4",
+    "caracteristicas": "So He",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Terminal",
+    "medida": "3/8",
+    "caracteristicas": "So He",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Terminal",
+    "medida": "3/4 x 1/2",
+    "caracteristicas": "So He",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Terminal",
+    "medida": "1/2 x 3/8",
+    "caracteristicas": "He So",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Terminal",
+    "medida": "3/4 x 1/2",
+    "caracteristicas": "Hi So",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Terminal",
+    "medida": "3/8",
+    "caracteristicas": "So Hi",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Terminal",
+    "medida": "3/4",
+    "caracteristicas": "So Hi",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Terminal",
+    "medida": "3/4 x 1/2",
+    "caracteristicas": "So Hi",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Terminal",
+    "medida": "1/2",
+    "caracteristicas": "So Hi",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Terminal",
+    "medida": "1 x 3/4",
+    "caracteristicas": "Hi So",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Terminal",
+    "medida": "1/2 x 3/8",
+    "caracteristicas": "Hi So",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Terminal",
+    "medida": "1",
+    "caracteristicas": "So Hi",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Terminal",
+    "medida": "2",
+    "caracteristicas": "SO-HI",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Ca�er�a",
+    "medida": "3/8",
+    "caracteristicas": "Tipo K",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Ca�er�a",
+    "medida": "1/2",
+    "caracteristicas": "TIPO K",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Ca�er�a",
+    "medida": "3/4",
+    "caracteristicas": "TIPO K",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Ca�er�a",
+    "medida": "3/8",
+    "caracteristicas": "Metros",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Ca�er�a",
+    "medida": "1/2",
+    "caracteristicas": "Metros",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Ca�er�a",
+    "medida": "3/4",
+    "caracteristicas": "Metros",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Ca�er�a",
+    "medida": "1",
+    "caracteristicas": "Metros",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Ca�er�a",
+    "medida": "1 1/4",
+    "caracteristicas": "Metros",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Ca�er�a",
+    "medida": "1 1/2",
+    "caracteristicas": "Metros",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Ca�er�a",
+    "medida": "2",
+    "caracteristicas": "Metros",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Ca�er�a",
+    "medida": "2 1/2",
+    "caracteristicas": "Metros",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "V�lvulas Bola",
+    "medida": "3/8",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "V�lvulas Bola",
+    "medida": "1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "V�lvulas Bola",
+    "medida": "3/4",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "V�lvulas Bola",
+    "medida": "3/4",
+    "caracteristicas": "Hi-HE",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "V�lvulas Bola",
+    "medida": "1",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "V�lvulas Bola",
+    "medida": "2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "V�lvulas Bolas",
+    "medida": "11/4",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "V�lvulas Bola",
+    "medida": "1 1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Llave de lujo",
+    "medida": "DIMAFLOW",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Llave de lujo",
+    "medida": "TAUMM",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Lave nibsa",
+    "medida": "1/2",
+    "caracteristicas": "Hi-HE",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Fundente",
+    "medida": "250 grs",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tefl�n 1/2 gas",
+    "medida": "1/2",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Tefl�n 3/4 gas",
+    "medida": "3/4",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Uni�n pol",
+    "medida": "",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Terminal 1/4",
+    "medida": "",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "\"Flexible 1/2\"\" 60 cms\"",
+    "medida": "",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "\"Flexible 1/2\"\" 100 cms\"",
+    "medida": "",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Lija",
+    "medida": "",
+    "caracteristicas": "",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Regulador Fisher",
+    "medida": "1� etapa",
+    "caracteristicas": "SR64",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Regulador Rego",
+    "medida": "1 Etapa",
+    "caracteristicas": "FB597",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Regulador Rego",
+    "medida": "2� etapa",
+    "caracteristicas": "LV403B4",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Regulador Rego",
+    "medida": "etapa �nica",
+    "caracteristicas": "LV404B4",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  },
+  {
+    "nombre": "Regulador Rego",
+    "medida": "2�etapa Inda",
+    "caracteristicas": "LV5503B8",
+    "stock_actual": 0,
+    "salida_material": 0,
+    "falta_material": false,
+    "cantidad_faltante": 0
+  }
+]

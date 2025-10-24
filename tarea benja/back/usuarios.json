@@ -1,0 +1,38 @@
+[
+  {
+    "nombre": "Laura Gómez",
+    "cargo": "administrador",
+    "email": "laura.gomez@example.com",
+    "password": "Admin123!"
+  },
+  {
+    "nombre": "Pedro Ruiz",
+    "cargo": "supervisor",
+    "email": "pedro.ruiz@example.com",
+    "password": "Supervisor123!"
+  },
+  {
+    "nombre": "María Fernández",
+    "cargo": "supervisor",
+    "email": "maria.fernandez@example.com",
+    "password": "Supervisor456!"
+  },
+  {
+    "nombre": "Juan Pérez",
+    "cargo": "empleado",
+    "email": "juan.perez@example.com",
+    "password": "Empleado123!"
+  },
+  {
+    "nombre": "Ana López",
+    "cargo": "empleado",
+    "email": "ana.lopez@example.com",
+    "password": "Empleado456!"
+  },
+  {
+    "nombre": "Carlos Martínez",
+    "cargo": "empleado",
+    "email": "carlos.martinez@example.com",
+    "password": "Empleado789!"
+  }
+]

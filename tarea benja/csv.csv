@@ -1,0 +1,178 @@
+;MEDIDAS;Características;Stock Actual;Salida de Material;¿Falta Material?;Cantidad Faltante
+abrazadera;"1/2""";;0;0;No;0
+abrazadera;"3/8""";;0;0;No;0
+abrazadera;"3/4""";;0;0;No;0
+abrazadera;"1""";;0;0;No;0
+abrazadera;"1 1/4""";;0;0;No;0
+abrazadera;"1 1/2""";;0;0;No;0
+abrazadera;"2""";;0;0;No;0
+;;;0;0;No;0
+Copla Red;"2"" x 1 1/2""";;0;0;No;0
+Copla Red;"2"" x 1 1/4""";;0;0;No;0
+Copla Red;"2 1/2"" x 1 1/2""";;0;0;No;0
+Copla Red;"2 1/2"" x 1""";;0;0;No;0
+Copla Red;"2 1/2"" x 2""";;0;0;No;0
+Copla Red;"1 1/2"" x 1""";;0;0;No;0
+Copla Red;"1 1/4"" x 1""";;0;0;No;0
+Copla Red;"1 1/2"" x 3/4""";;0;0;No;0
+Copla Red;"1 1/4"" x 3/4""";;0;0;No;0
+Copla Red;"2"" x 1""";;0;0;No;0
+Copla Red;"2"" x 3/4""";;0;0;No;0
+Copla Red;"1"" x 3/4""";;0;0;No;0
+Copla Red;"2 x 1/2""";;0;0;No;0
+Copla Red;"1"" x 1/2""";;0;0;No;0
+Copla Red;"3/4""x 1/2""";;0;0;No;0
+Copla Red;"1/2 x 3/8""";;0;0;No;0
+;;;0;0;No;0
+Copla;"1 1/4""";;0;0;No;0
+Copla;"2 1/2 """;;0;0;No;0
+Copla;"1 1/2""";;0;0;No;0
+Copla;"2""";;0;0;No;0
+Copla;"1""";;0;0;No;0
+Copla;"3/4""";;0;0;No;0
+Copla;"1/2""";;0;0;No;0
+Copla;"3/8""";;0;0;No;0
+;;;0;0;No;0
+Codo;"1 1/2""";;0;0;No;0
+Codo;"1 1/2"" x 3/4""";;0;0;No;0
+Codo;"2 1/2""";;0;0;No;0
+Codo;"2""";;0;0;No;0
+Codo;"1 1/4""";;0;0;No;0
+Codo;"1""";;0;0;No;0
+Codo;"3/4""";;0;0;No;0
+Codo;"1/2""";;0;0;No;0
+Codo;"3/8""";;0;0;No;0
+Codo;"1 1/4"" x 1""";;0;0;No;0
+Codo;"1 1/4"" x 3/4""";;0;0;No;0
+Codo;"3/4"" x 1/2""";SOSO;0;0;No;0
+Codo;"1"" x 1/2""";;0;0;No;0
+Codo;"1/2"" x 3/8""";;0;0;No;0
+Codo;"1""x 3/4";;0;0;No;0
+;;;0;0;No;0
+Codo Ter;"3/4"" x 1/2""";So He;0;0;No;0
+Codo Ter;"1/2"" x 3/8""";He So;0;0;No;0
+Codo Ter;"3/4"" x 1/2""";He So;0;0;No;0
+Codo Ter;"1/2""";So Hi;0;0;No;0
+Codo Ter;"1/2""";So He;0;0;No;0
+Codo Ter;"3/8""";So Hi;0;0;No;0
+Codo Ter;"3/4""";So He;0;0;No;0
+Codo Ter;"3/4""";So HI;0;0;No;0
+Codo Ter;"1""";So He;0;0;No;0
+Codo Ter;"1""";So HI;0;0;No;0
+;;;0;0;No;0
+Tee;"1 1/2""";;0;0;No;0
+Tee;"1 1/4""";;0;0;No;0
+Tee;"2""";;0;0;No;0
+Tee;"1""";;0;0;No;0
+Tee;"3/4""";;0;0;No;0
+Tee;"1/2""";;0;0;No;0
+Tee;"3/8""";;0;0;No;0
+Tee;"2"" x 2"" x 1/2""";sososo;0;0;No;0
+Tee;"1 1/2"" x 1 1/2"" x 1/2""";sososo;0;0;No;0
+Tee;"1 1/2"" x 1 1/2"" x 3/4""";sososo;0;0;No;0
+Tee;"1 1/4"" x 1"" x 1""";;0;0;No;0
+Tee;"1 1/4"" x 1 1/4"" x 3/4""";;0;0;No;0
+Tee;"1 1/4"" x 1 1/4"" x 1/2""";;0;0;No;0
+Tee;"3/4"" x 1/2"" x 1/2""";;0;0;No;0
+Tee;"3/4"" x 3/4"" x 1/2""";sososo;0;0;No;0
+Tee;"3/4"" 1/2"" x 3/4""";;0;0;No;0
+Tee;"1 1/4"" x 1 1/4"" x 1""";;0;0;No;0
+Tee;"1"" x 1"" x 1/2""";SO;0;0;No;0
+Tee;"1"" x 1"" x 3/4""";SO;0;0;No;0
+Tee;"1"" x 3/4"" x 1/2""";;0;0;No;0
+Tee;"1"" x 1"" x 1/2""";Prueba;0;0;No;0
+Tee;"3/4"" x 3/4"" x 3/4""";Prueba;0;0;No;0
+Tee;3/4 x 3/4 x 1/2;Prueba;0;0;No;0
+Tee;2025-02-01 00:00:00;prueba;0;0;No;0
+Tee;2025-08-03 00:00:00;prueba;0;0;No;0
+;;;0;0;No;0
+Unión Cola;"1/2""";;0;0;No;0
+Unión Cola;"3/4""";;0;0;No;0
+;;;0;0;No;0
+Tapa Hi;"1/2"" HI";HI;0;0;No;0
+Tapa Hi;"3/4"" HI";HI;0;0;No;0
+Tapa gorro SO;"1"" SO";so;0;0;No;0
+Tapa HE;"3/4"" HE";He;0;0;No;0
+Tapa gorro SO;"3/4"" SO";SO;0;0;No;0
+Tapa gorro SO;"3/8"" SO";SO;0;0;No;0
+"Tapa HE 1/2""";"1/2"" HE";He;0;0;No;0
+Tapa HE;"1 1/2"" HE";He;0;0;No;0
+Tapa Hi;"1"" HI";HI;0;0;No;0
+Tapa gorro So;"1 1/2"" SO";SO;0;0;No;0
+Tapa gorro So;"1/2"" SO";So;0;0;No;0
+;;;0;0;No;0
+Unión Americana;"3/8""";;0;0;No;0
+Unión Americana;"1/2""";SO_HE;0;0;No;0
+Unión Americana;"1/2""";;0;0;No;0
+Unión Americana;"3/4""";SO-HE;0;0;No;0
+Unión Americana;"3/4""";;0;0;No;0
+Unión Americana;"2""";;0;0;No;0
+Unión Americana;"1""";;0;0;No;0
+Unión Americana;"1 1/4""";;0;0;No;0
+Unión Americana;"1 1/2""";;0;0;No;0
+;;;0;0;No;0
+Niple;"1/2""";;0;0;No;0
+Niple;"3/4""";;0;0;No;0
+Niple;"1/2""HI HI";;0;0;No;0
+Niple;"3/8""";;0;0;No;0
+;;;0;0;No;0
+Terminal;"1/2""";So He;0;0;No;0
+Terminal;"1 1/4""";So He;0;0;No;0
+Terminal;"1 1/2""";So He;0;0;No;0
+Terminal;"2""";So He;0;0;No;0
+Terminal;"1""";So He;0;0;No;0
+Terminal;"3/4""";So He;0;0;No;0
+Terminal;"1"" x 3/4""";So He;0;0;No;0
+Terminal;"1/2"" x 3/4""";So He;0;0;No;0
+Terminal;"3/8""";So He;0;0;No;0
+Terminal;"3/4"" x 1/2""";So He;0;0;No;0
+Terminal;"1/2"" x 3/8""";He So;0;0;No;0
+;;;0;0;No;0
+Terminal;"3/4"" x 1/2""";Hi So;0;0;No;0
+Terminal;"3/8""";So Hi;0;0;No;0
+Terminal;"3/4""";So Hi;0;0;No;0
+Terminal;"3/4"" x 1/2""";So Hi;0;0;No;0
+Terminal;"1/2""";So Hi;0;0;No;0
+Terminal;"1"" x 3/4""";Hi So;0;0;No;0
+Terminal;"1/2"" x 3/8""";Hi So;0;0;No;0
+Terminal;"1""";So Hi;0;0;No;0
+Terminal;"2""";SO-HI;0;0;No;0
+;;;0;0;No;0
+Cañería;"3/8""";Tipo K;0;0;No;0
+Cañería;"1/2""";TIPO K;0;0;No;0
+Cañería;"3/4""";TIPO K;0;0;No;0
+Cañería;"3/8""";Metros;0;0;No;0
+Cañería;"1/2""";Metros;0;0;No;0
+Cañería;"3/4""";Metros;0;0;No;0
+Cañería;"1""";Metros;0;0;No;0
+Cañería;"1 1/4""";Metros;0;0;No;0
+Cañería;"1 1/2""";Metros;0;0;No;0
+Cañería;"2""";Metros;0;0;No;0
+Cañería;"2 1/2""";Metros;0;0;No;0
+;;;0;0;No;0
+Válvulas Bola;"3/8""";;0;0;No;0
+Válvulas Bola;"1/2""";;0;0;No;0
+Válvulas Bola;"3/4""";;0;0;No;0
+Válvulas Bola;"3/4""";Hi-HE;0;0;No;0
+Válvulas Bola;"1""";;0;0;No;0
+Válvulas Bola;"2""";;0;0;No;0
+Válvulas Bolas;"11/4""";;0;0;No;0
+Válvulas Bola;"1 1/2""";;0;0;No;0
+Llave de lujo;DIMAFLOW;;0;0;No;0
+Llave de lujo;TAUMM;;0;0;No;0
+Lave nibsa;"1/2""";Hi-HE;0;0;No;0
+;;;0;0;No;0
+Fundente;250 grs;;0;0;No;0
+Teflón 1/2 gas;"1/2""";;0;0;No;0
+Teflón 3/4 gas;"3/4""";;0;0;No;0
+Unión pol;;;0;0;No;0
+Terminal 1/4;;;0;0;No;0
+"Flexible 1/2"" 60 cms";;;0;0;No;0
+"Flexible 1/2"" 100 cms";;;0;0;No;0
+Lija;;;0;0;No;0
+;;;0;0;No;0
+Regulador Fisher;1° etapa;SR64;0;0;No;0
+Regulador Rego;1 Etapa;FB597;0;0;No;0
+Regulador Rego;2° etapa;LV403B4;0;0;No;0
+Regulador Rego;etapa única;LV404B4;0;0;No;0
+Regulador Rego;2°etapa Inda;LV5503B8;0;0;No;0
