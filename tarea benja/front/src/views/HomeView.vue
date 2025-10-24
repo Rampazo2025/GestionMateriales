@@ -346,8 +346,7 @@
 <script setup>
 import { computed, onMounted, reactive, ref } from 'vue'
 import { useRouter } from 'vue-router'
-import axios from 'axios'
-
+import api from '@/services/api'
 const router = useRouter()
 
 const formRef = ref(null)
@@ -441,7 +440,7 @@ const downloadReport = async () => {
       params.supervisor = currentUser.value.nombre
     }
 
-    const response = await axios.get('http://localhost:3000/materiales/reporte', {
+    const response = await api.get('/materiales/reporte', {
       params,
       responseType: 'blob'
     })
@@ -467,8 +466,8 @@ const downloadReport = async () => {
 
 const loadData = async () => {
   const [materialesResponse, usuariosResponse] = await Promise.all([
-    axios.get('http://localhost:3000/materiales'),
-    axios.get('http://localhost:3000/usuarios')
+    api.get('/materiales'),
+    api.get('/usuarios')
   ])
 
   materialesData.value = materialesResponse.data
@@ -597,7 +596,7 @@ const loadMovimientos = async () => {
       params.supervisor = currentUser.value.nombre
     }
 
-    const response = await axios.get('http://localhost:3000/materiales/movimientos', { params })
+    const response = await api.get('/materiales/movimientos', { params })
     movimientosData.value = response.data
   } catch (error) {
     console.error('Error cargando movimientos', error)
@@ -653,7 +652,7 @@ const addMaterial = async () => {
 
   try {
     isSubmitting.value = true
-    await axios.post('http://localhost:3000/materiales/movimientos', {
+    await api.post('/materiales/movimientos', {
       movimientos: [movimiento]
     })
 
